@@ -140,3 +140,4 @@ tail -f /Users/korolevegor/@FehtNic2/bot.log
 
 *Сделай этот бот вирусным! Поделись с друзьями-фехтовальщиками!*
 
+# Force rebuild
